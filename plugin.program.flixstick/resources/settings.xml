@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="cache" type="text" visible="false" default=""/>
+	<setting id="kw" type="text" visible="false" default=""/>
+	<setting id="notes" type="text" visible="false" default=""/>
+</settings>
+	

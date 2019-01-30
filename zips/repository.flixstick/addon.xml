@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.flixstick" version="1.0" name="Flixstick Repo" provider-name="flixstick">
+	<extension point="xbmc.addon.repository" name="Flixstick repo">
+		<info compressed="false">https://github.com/flixstick/flixstick/raw/master/zips/addons.xml</info>
+		<checksum>https://github.com/flixstick/flixstick/raw/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/flixstick/flixstick/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Flixstick Repo</summary>
+		<description>Flixstick repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>
